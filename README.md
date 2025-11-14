@@ -14,3 +14,4 @@ This repository contains my lab exercises for the **Algorithm and Data Structure
 | Lab 3 Singly and Doubly linked list                              | 09-10-2025     |
 | Lab 4 Turn Singly and Doubly linked list to STACK                | 23-10-2025     |
 | Lab 5 Turn STACK to QUEUE                         | 06-11-2025     |
+| Lab 6 Tree Graph                         | 13-11-2025     |
